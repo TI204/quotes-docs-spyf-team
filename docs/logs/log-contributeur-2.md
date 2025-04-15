@@ -1,7 +1,6 @@
 ## Log Contributeur 2
 
 ```bash
-<contenu du fichier log-contributeur-2.txt>
 * ff11cd4 (HEAD -> main) maj
 * 9c30037 Refactor documentation and pushed log initateur
 *   1718366 Merge pull request #3 from Yushan9293/contributeur-3
