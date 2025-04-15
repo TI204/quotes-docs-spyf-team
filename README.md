@@ -12,3 +12,4 @@ Solutions de l'évaluation notée 2 du groupe SPYF à l'aide de MkDocs.
 ## URLs des dépôts
 
 - `initiateur` : https://github.com/TI204/quotes-docs-spyf-team
+-  "contributor-1" : Samuel DE POUKN lien fork : https://github.com/Masbroo44/quotes-docs-spyf-team.git
