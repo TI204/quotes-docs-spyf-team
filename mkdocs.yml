@@ -2,3 +2,4 @@ site_name: Documentation Programming Quotes SPYF
 nav:
   - Home: index.md
   - Features: features.md
+  - Core Functions: functions.md
