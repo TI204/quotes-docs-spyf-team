@@ -10,9 +10,11 @@ Solutions de l'évaluation notée 2 du groupe SPYF à l'aide de MkDocs.
 - `initiateur` : Pascal CHEN
 - `contributor-1`: Samuel DE POUKN
 - `contributor-2` : Faetem TOURE
+- `contributor-3` : Yushan LIN
 
 ## URLs des dépôts
 
 - `initiateur` : https://github.com/TI204/quotes-docs-spyf-team
 - `contributor-1` : https://github.com/Masbroo44/quotes-docs-spyf-team.git
 - `contributor-2` : https://github.com/faetem/quotes-docs-spyf-team.git
+- `contributor-3` : https://github.com/Yushan9293/quotes-docs-spyf-team.git
