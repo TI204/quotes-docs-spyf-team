@@ -1,7 +1,6 @@
 ## Log Contributeur 3
 
 ```bash
-<contenu du fichier log-contributeur-3.txt>
 git adog
 * 3945bc4 (HEAD -> contributeur-3, origin/contributeur-3) Added user-interface.md
 * 3fbc022 Complete index.md and README.md (Contributor 3)
