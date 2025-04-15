@@ -1,7 +1,7 @@
 ## Log Initiateur
 
 ```bash
-<contenu du fichier log-initiateur.txt>
+
 scalpaaaa@MacBook-Pro-de-Pascal logs % git adog
 * c2ab372 (origin/gh-pages, gh-pages) Deployed 9c30037 with MkDocs version: 1.6.1
 * 53deff0 Deployed 9c30037 with MkDocs version: 1.6.1
