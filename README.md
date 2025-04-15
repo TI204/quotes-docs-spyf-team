@@ -8,8 +8,9 @@ Solutions de l'évaluation notée 2 du groupe SPYF à l'aide de MkDocs.
 ## Membres du groupe
 
 - `initiateur` : Pascal CHEN
+- `contributor-1`: Samuel DE POUKN
 
 ## URLs des dépôts
 
 - `initiateur` : https://github.com/TI204/quotes-docs-spyf-team
--  "contributor-1" : Samuel DE POUKN lien fork : https://github.com/Masbroo44/quotes-docs-spyf-team.git
+- `contributor-1` : https://github.com/Masbroo44/quotes-docs-spyf-team.git
